@@ -11,8 +11,17 @@ Primer repositorio Github
 + Elemento 2
 
 Lista ordenada
-1. Paso 1
-2. Paso 2
-3. Paso 3
+1. Paso **1**
+2. Paso **2**
+..* Paso 1
+..* Paso 2
+3. Paso ***3***
 
 
+```html
+<html>
+  <head>
+  </head>
+</html>
+```
+[www.google.com]
