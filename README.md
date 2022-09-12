@@ -24,4 +24,4 @@ Lista ordenada
   </head>
 </html>
 ```
-[www.google.com]
+[https://www.google.es/?hl=ca]
