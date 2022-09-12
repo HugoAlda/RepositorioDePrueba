@@ -24,4 +24,4 @@ Lista ordenada
   </head>
 </html>
 ```
-[https://www.google.es/?hl=ca]
+[Google](https://www.google.es/?hl=ca "Buscador")
